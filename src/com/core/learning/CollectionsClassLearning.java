@@ -19,9 +19,11 @@ public class CollectionsClassLearning {
         // sort
         Collections.sort(colourList);
         System.out.println("Sorted List => " + colourList);
+
         // Remove duplicate
         Set removeDuplicate= new HashSet(colourList);
         System.out.println("Duplicate removed from the List => " + removeDuplicate);
+
         // Iterator example
         Iterator it = colourList.iterator();
         while (it.hasNext()){
