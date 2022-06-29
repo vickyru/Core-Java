@@ -10,7 +10,7 @@ public class FindSquareRoot {
         double sqrt = number/2;
         do {
             temp = sqrt;
-            sqrt = (temp+(number/sqrt))/2;
+            sqrt = (temp+(number/temp))/2;
         }while ((temp-sqrt)!=0);
         System.out.println(sqrt);
     }

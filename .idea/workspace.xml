@@ -1,764 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b820595-d52d-43ab-a7f3-7f7d3f79f7b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/AnagramString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/AnagramStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/CharCountInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/Customers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/EmailDomianProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/EqualsOperatorAndOperand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/FiltersAndStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/FindClosestNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/FindDuplicateWithoutCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/FindOpenAndCloseBracket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/FindSquareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/MaxNumInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/RemoveCharInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/RemoveDuplicateArrayItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/RemoveDuplicateInstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/ResverseOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/ReverseStringWOStringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/ReverseTheStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/SecondMaxInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/StringOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/SwapOfTwoNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/UniqueEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Core-Java.iml" beforeDir="false" />
+    <list default="true" id="e289f62d-f4d9-44a1-98d6-fb38e5a4477b" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/DeepArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/FindingMissingNumberInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/RomanKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/Sequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/TwoSumProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/bracket/BalancedBrakets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/char_count_in_string/CharCountsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/char_count_in_string/CharCountsInStringsUsingCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/constructors/ThisKeyWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/duplicates/FindDuplicateWithStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/reverse/ReverseWordButPreserveOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/strings/AlphabetNumberPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/strings/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/swap/SwapOfThreeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/abstraction/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/abstraction/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/abstraction/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/abstraction/TestAbstarction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/encapsulation/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/encapsulation/TestEncapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/overiding/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/overiding/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/overiding/TestOveriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/overiding/Vehical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/overloading/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/concept/overloading/TestCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/CollectionsClassLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/CollectionsClassLearning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Core-Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/AnagramString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/Anagram/AnagramString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/AnagramStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/Anagram/AnagramStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/CharCountInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/char_count_in_string/TotalCharCountInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/EmailDomianProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/EmailDomianProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/streams/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FiltersAndStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/streams/FiltersAndStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FindClosestNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/FindClosestNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FindDuplicateWithCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/duplicates/FindDuplicateWithCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FindDuplicateWithoutCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/duplicates/FindDuplicateWithoutCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FindOpenAndCloseBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/bracket/FindOpenAndCloseBracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FindSquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/FindSquareRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/MaxNumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/min_max/MaxNumInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/MethodOverLoading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/MethodOveriding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/MinMaxElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/min_max/MinMaxElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/RemoveCharInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/char_count_in_string/RemoveCharInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/RemoveDuplicateArrayItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/duplicates/RemoveDuplicateArrayItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/RemoveDuplicateInstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/duplicates/RemoveDuplicateInstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/ResverseOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/reverse/ResverseOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/ReverseStringWOStringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/reverse/ReverseStringWOStringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/ReverseTheStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/reverse/ReverseTheStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/min_max/SecondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/SecondMaxInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/min_max/SecondMaxInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/StringOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/SwapOfTwoNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/swap/SwapOfTwoNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/UniqueEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/streams/UniqueEmployee.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/core/learning/UniqueEmployee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/core/learning/SwapOfTwoNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/core/learning/AnagramStrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/core/learning/RemoveDuplicateInstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/core/learning/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/core/learning/StringOperation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/core/learning/CharCountInString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/core/learning/MaxNumInArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/core/learning/SecondMaxInArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/core/learning/EqualsOperatorAndOperand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/core/learning/SecondLargest.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/MinMaxElementInArray.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/FindDuplicateWithCollection.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/FindDuplicateWithoutCollection.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/EmailDomianProblem.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/AnagramString.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/RemoveCharInString.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/FindSquareRoot.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/FindClosestNumberInArray.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/FindOpenAndCloseBracket.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/UniqueEmployee.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/Customers.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/FiltersAndStreams.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/CollectionsClassLearning.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/RemoveDuplicateArrayItems.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/ReverseStringWOStringMethods.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/ResverseOfArray.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/ReverseTheStatement.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/MaxNumInArray.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/SecondMaxInArray.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/EqualsOperatorAndOperand.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/SwapOfTwoNumber.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/CharCountInString.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/AnagramStrings.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/RemoveDuplicateInstring.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/com/core/learning/StringOperation.java" />
-      </list>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1943" />
-    <option name="height" value="1043" />
+  <component name="ProjectId" id="2BFPHG383RvqPeSWa20zrrDvWxF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Core-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core-Java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Singleton">
-    <configuration name="AnagramStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.core.learning.AnagramStrings" />
-      <module name="Core-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.core.learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CharCountInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.core.learning.CharCountInString" />
-      <module name="Core-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.core.learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicateInstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.core.learning.RemoveDuplicateInstring" />
-      <module name="Core-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.core.learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.core.learning.Singleton" />
-      <module name="Core-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.core.learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwapOfTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.core.learning.SwapOfTwoNumber" />
-      <module name="Core-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.core.learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Singleton" />
-        <item itemvalue="Application.RemoveDuplicateInstring" />
-        <item itemvalue="Application.AnagramStrings" />
-        <item itemvalue="Application.CharCountInString" />
-        <item itemvalue="Application.SwapOfTwoNumber" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/vickyru/Code-Repo/Core-Java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.tools"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4b820595-d52d-43ab-a7f3-7f7d3f79f7b0" name="Default Changelist" comment="" />
-      <created>1642663556230</created>
+      <changelist id="e289f62d-f4d9-44a1-98d6-fb38e5a4477b" name="Changes" comment="" />
+      <created>1656498769379</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642663556230</updated>
+      <updated>1656498769379</updated>
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2291498" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5232558" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.54555553" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Log Analyzer" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="SOQL Query" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3288889" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2291498" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5232558" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.54555553" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Log Analyzer" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="SOQL Query" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3288889" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/core/learning/EmailDomianProblem.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/core/learning/EmailDomianProblem.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/core/learning/AnagramString.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/core/learning/RemoveCharInString.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/core/learning/RemoveCharInString.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/core/learning/RemoveCharInString.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/core/learning/FindClosestNumberInArray.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>number-array[endIndex]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>number-array[startIndex]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>str1.indexOf('a')</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>str1.indexOf('b')</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>str1.indexOf('c')</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>str1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>str1[0]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>innerUser[0]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/ThisKeyWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/SecondLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/FindDuplicateWithoutCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="45" lean-forward="true" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/FindDuplicateWithCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#346#355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/MinMaxElementInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/EmailDomianProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/RemoveCharInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/FindSquareRoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/FindClosestNumberInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/InterfaceCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_301/src.zip!/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/Customers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/AnagramString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/CollectionsClassLearning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="26" />
-          <folding>
-            <element signature="e#312#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/RemoveDuplicateArrayItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#346#354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/ReverseStringWOStringMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/ResverseOfArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/ReverseTheStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/MaxNumInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/SecondMaxInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/EqualsOperatorAndOperand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/UniqueEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/FindOpenAndCloseBracket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/FiltersAndStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/SwapOfTwoNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/CharCountInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/AnagramStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/RemoveDuplicateInstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/core/learning/StringOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
 </project>

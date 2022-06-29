@@ -1,35 +1,35 @@
 package com.core.learning;
 
+import java.util.Arrays;
+
 public class FindClosestNumberInArray {
     /**
      * Input : arr[] = {1, 2, 4, 5, 6, 6, 8, 9}
-     *              Target number = 11
+     * Target number = 11
      * Output : 9
      * 9 is closest to 11 in given array
-     *
+     * <p>
      * Input :arr[] = {2, 5, 6, 7, 8, 8, 9};
-     *        Target number = 4
+     * Target number = 4
      * Output : 5
      */
 
     public static void main(String[] args) {
-        int [] array = {1, 2, 4, 5, 6, 6, 8, 9};
-        int number = 2;
-        int endIndex = array.length-1;
-        int startIndex = 0;
-        int mid = 0;
-        while (startIndex < endIndex-1){
-            mid=(endIndex+startIndex)/2;
-            System.out.println("start index: " + startIndex);
-            System.out.println("end index: " + endIndex);
-            System.out.println("mid index: " + mid);
-            if(number-array[startIndex] > number-array[endIndex]){
-                startIndex=mid;
+        int[] array = {1, 2, 4, 5, 6, 6, 8, 9};
+        int number =11;
+        int diff= Integer.MIN_VALUE;
+        int temp = Integer.MAX_VALUE;
+        int index = 0;
+        for (int i=0; i<array.length;i++){
+            diff = array[i] - number;
+            if(diff<0){
+                diff = diff * -1;
             }
-            if(number-array[startIndex] < number-array[endIndex]){
-                endIndex = mid;
+            if(diff<temp){
+                temp=diff;
+                index = i;
             }
         }
-        System.out.println(array[mid+1]);
+        System.out.println(array[index]);
     }
 }

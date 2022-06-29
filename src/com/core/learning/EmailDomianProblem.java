@@ -5,22 +5,22 @@ import java.util.*;
 public class EmailDomianProblem {
     /**
      * String [] user = {
-     *                      p.h.kumar.tiwari@accenture.com, <>Valid</>
-     *                      p.h.kumar.tiwari+1@accenture.com, <>Valid</>
-     *                      phkumartiwari@accenture.one.com,    <>Valid</>
+     *                      p.h.kumar.tiwari@gmail.com, <>Valid</>
+     *                      p.h.kumar.tiwari+1@gmail.com, <>Valid</>
+     *                      phkumartiwari@gmail.one.com,    <>Valid</>
      *                      p.h.kumar@accent.com,   <>Invalid</>
      * }
      * Find out the valid email id counts
      */
     public static void main(String[] args) {
         String validUserName = "phkumartiwari";
-        String validDomain1 = "accentureonecom";
-        String validDomain2 = "accenturecom";
-        String [] users = { "p.h.kumar.tiwari@accenture.com",
-                            "p.h.kumar.tiwari+1@accenture.com",
-                            "phkumartiwari@accenture.one.com",
+        String validDomain1 = "gmail";
+        String validDomain2 = "gmailone";
+        String [] users = { "p.h.kumar.tiwari@gmail.com",
+                            "p.h.kumar.tiwari+1@gmail.com",
+                            "phkumartiwari@gmail.one.com",
                             "p.h.kumar@accent.com",
-                            "p.h.kumar@accenture.two.com"
+                            "p.h.kumar@gmail.two.com"
                           };
         List<String> userList = new ArrayList<String>(Arrays.asList(users));
         List<String> userSet = new ArrayList<>();
