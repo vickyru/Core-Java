@@ -28,24 +28,24 @@ import java.util.List;
  */
 
 public class TwoSumProblem {
-    public int[] twoSum(int[] nums, int target) {
+    public List<Integer> twoSum(int[] nums, int target) {
         List<Integer> numList = new ArrayList<Integer>();
         for(int i=0;i<nums.length; i++){
             for(int j=i;j<nums.length;j++){
-                if(nums[i]+nums[j] == target){
+                if(i != j && nums[i]+nums[j] == target){
                     numList.add(i);
                     numList.add(j);
                     break;
                 }
             }
         }
-        return  null;
+        return  numList;
     }
 
     public static void main(String[] args) {
         TwoSumProblem obj =new TwoSumProblem();
-        int [] sums= {3,3};
-        int target = 6;
-        obj.twoSum(sums,target);
+        int [] sums= {1,2,3,4,5,6,7,8,9};
+        int target = 9;
+        System.out.println(obj.twoSum(sums,target));
     }
 }

@@ -1,70 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e289f62d-f4d9-44a1-98d6-fb38e5a4477b" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/DeepArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/FindingMissingNumberInList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/RomanKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/Sequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/TwoSumProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/bracket/BalancedBrakets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/char_count_in_string/CharCountsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/char_count_in_string/CharCountsInStringsUsingCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/constructors/ThisKeyWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/duplicates/FindDuplicateWithStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/reverse/ReverseWordButPreserveOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/strings/AlphabetNumberPatterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/strings/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/core/learning/swap/SwapOfThreeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/abstraction/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/abstraction/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/abstraction/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/abstraction/TestAbstarction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/encapsulation/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/encapsulation/TestEncapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/overiding/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/overiding/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/overiding/TestOveriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/overiding/Vehical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/overloading/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/concept/overloading/TestCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/ArraySumToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/Arrays/DuplicateToEndOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core/learning/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Core-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Core-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/AnagramString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/Anagram/AnagramString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/AnagramStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/Anagram/AnagramStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/CharCountInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/char_count_in_string/TotalCharCountInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/EmailDomianProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/EmailDomianProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/streams/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FiltersAndStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/streams/FiltersAndStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FindClosestNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/FindClosestNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FindDuplicateWithCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/duplicates/FindDuplicateWithCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FindDuplicateWithoutCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/duplicates/FindDuplicateWithoutCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FindOpenAndCloseBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/bracket/FindOpenAndCloseBracket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/FindSquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/FindSquareRoot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/MaxNumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/min_max/MaxNumInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/MethodOverLoading.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/MethodOveriding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/MinMaxElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/min_max/MinMaxElementInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/RemoveCharInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/char_count_in_string/RemoveCharInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/RemoveDuplicateArrayItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/duplicates/RemoveDuplicateArrayItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/RemoveDuplicateInstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/duplicates/RemoveDuplicateInstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/ResverseOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/reverse/ResverseOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/ReverseStringWOStringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/reverse/ReverseStringWOStringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/ReverseTheStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/reverse/ReverseTheStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/min_max/SecondLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/SecondMaxInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/min_max/SecondMaxInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/StringOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/SwapOfTwoNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/swap/SwapOfTwoNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core/learning/UniqueEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/streams/UniqueEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/Anagram/AnagramStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/Anagram/AnagramStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/TwoSumProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/TwoSumProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/bracket/BalancedBrakets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/bracket/BalancedBrakets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/bracket/FindOpenAndCloseBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/bracket/FindOpenAndCloseBracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/duplicates/RemoveDuplicateInstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/duplicates/RemoveDuplicateInstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core/learning/min_max/SecondMaxInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core/learning/min_max/SecondMaxInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,17 +40,93 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/vickyru/Code-Repo/Core-Java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vickyru/Code-Repo/Core-Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.TwoSumProblem">
+    <configuration name="ArraySumToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core.learning.ArraySumToNumber" />
+      <module name="Core-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core.learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateToEndOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core.learning.Arrays.DuplicateToEndOfArray" />
+      <module name="Core-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core.learning.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core.learning.Fibonacci" />
+      <module name="Core-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core.learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindOpenAndCloseBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core.learning.bracket.FindOpenAndCloseBracket" />
+      <module name="Core-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core.learning.bracket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSumProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core.learning.TwoSumProblem" />
+      <module name="Core-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core.learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoSumProblem" />
+        <item itemvalue="Application.DuplicateToEndOfArray" />
+        <item itemvalue="Application.FindOpenAndCloseBracket" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.ArraySumToNumber" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,6 +136,21 @@
       <option name="presentableId" value="Default" />
       <updated>1656498769379</updated>
     </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1656498948413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656498948413</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updates">
+      <created>1656498995689</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656498995689</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,5 +167,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updates" />
     <option name="LAST_COMMIT_MESSAGE" value="updates" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/core/learning/ArraySumToNumber.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/core/learning/bracket/FindOpenAndCloseBracket.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Core_Java$ArraySumToNumber.ic" NAME="ArraySumToNumber Coverage Results" MODIFIED="1656669981396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.core.learning.*</FILTER>
+    </SUITE>
   </component>
 </project>

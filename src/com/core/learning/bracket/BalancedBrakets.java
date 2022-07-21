@@ -22,9 +22,9 @@ public class BalancedBrakets {
                     .replaceAll("\\[\\]","");
         }
         if(str.length()==0){
-            System.out.println("Balanced brakets");
+            System.out.println("Balanced brackets");
         } else {
-            System.out.println("Unbalnces brakets");
+            System.out.println("Un balances brackets");
         }
     }
 

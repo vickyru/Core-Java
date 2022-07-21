@@ -1,7 +1,5 @@
 package com.core.learning.min_max;
 
-import org.omg.CORBA.INTERNAL;
-
 public class SecondMaxInArray {
     public static void main(String[] args) {
         //Find index of max number

@@ -5,7 +5,8 @@ package com.core.learning.bracket;
  * {{}}}{{{}}{}}
  */
 public class FindOpenAndCloseBracket {
-    public static void main(String[] args) {
+
+    public void method1(){
 
         // Count open brakets for them we have closed brackets
         String countBrakets="{}}}{{{{}{}";
@@ -20,5 +21,16 @@ public class FindOpenAndCloseBracket {
             }
         }
         System.out.println( count + " { brakets are having closing } as well");
+    }
+
+    public void method2(){
+        String countBrakets="{{{}}}{{{{}{}{}{{}}";
+        String [] array = countBrakets.split("\\{\\}");
+        System.out.println("Bracket Counts :" + (array.length+1));
+    }
+    public static void main(String[] args) {
+        FindOpenAndCloseBracket obj = new FindOpenAndCloseBracket();
+        obj.method1();
+        obj.method2();
     }
 }
