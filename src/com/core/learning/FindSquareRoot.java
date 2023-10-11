@@ -5,7 +5,7 @@ public class FindSquareRoot {
      * sqrtn+1=(sqrtn+(num/sqrtn))/2.0
      */
     public static void main(String[] args) {
-        double number = 121;
+        double number = 25;
         double temp=0;
         double sqrt = number/2;
         do {

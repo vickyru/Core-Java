@@ -53,6 +53,9 @@ public class RomanKey {
         romanKey.put("C",100);
         romanKey.put("D",500);
         romanKey.put("M",1000);
+        romanKey.put("CM",900);
+        romanKey.put("XC",90);
+        romanKey.put("IV",4);
         char [] charArry = s.toCharArray();
         for(int i=0;i<charArry.length;i++){
             sum+=romanKey.get(""+charArry[i]);
@@ -62,6 +65,6 @@ public class RomanKey {
 
     public static void main(String[] args) {
         RomanKey obj =new RomanKey();
-        System.out.println(obj.romanToInt("LVIII"));
+        System.out.println(obj.romanToInt("MCMXCIV"));
     }
 }

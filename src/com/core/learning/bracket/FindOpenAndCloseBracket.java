@@ -20,7 +20,7 @@ public class FindOpenAndCloseBracket {
                 count++;
             }
         }
-        System.out.println( count + " { brakets are having closing } as well");
+        System.out.println( count + " Numbers of open { brackets which are having closing } brackets as well are: ");
     }
 
     public void method2(){

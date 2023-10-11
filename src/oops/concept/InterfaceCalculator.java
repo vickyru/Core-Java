@@ -1,4 +1,4 @@
-package com.core.learning;
+package oops.concept;
 
 public interface InterfaceCalculator {   // public abstract InterfaceCalculator {
     int a=10; //    public static final int a=10;

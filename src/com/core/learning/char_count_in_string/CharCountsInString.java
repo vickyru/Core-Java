@@ -1,8 +1,11 @@
 package com.core.learning.char_count_in_string;
 
+/**
+ * Not working perfectly fine
+ */
 public class CharCountsInString {
-        public void getCount(){
-        String str11 = "PrashantKumarTiwari";
+        public void getCount1(){
+        String str11 = "PrashantKumarTiwari1234";
         int length=0;
         int count=0;
 
@@ -24,7 +27,7 @@ public class CharCountsInString {
     }
     public static void main(String[] args) {
         CharCountsInString opt = new CharCountsInString();
-        opt.getCount();
+        opt.getCount1();
     }
 
 }

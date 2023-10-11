@@ -9,10 +9,10 @@ public class ArraySumToNumber {
     //TODO
     public int [] sum(int [] array, int number){
         int n = array.length-1;
-        for (int i = 0; i < array.length; i++) {
-            int sum = array[i] + array[n-i];
-            if(sum == number){
-                return  new int [] {array[i],array[n-i]};
+        for (int i = 0, j = 0 ; i < array.length-1 | j < array.length-1; i++, j++) {
+            int sum = array[i] + array[j];
+            if(sum == number && i != j){
+                return  new int [] {array[i],array[j]};
             }
         }
         return  null;
@@ -21,6 +21,9 @@ public class ArraySumToNumber {
     public static void main(String[] args) {
         ArraySumToNumber obj = new ArraySumToNumber();
         int [] array = {1, 2, 3, 5};
-        System.out.println(obj.sum(array,4));
+        int [] outPut = obj.sum(array,4);
+        for (int i = 0; i < outPut.length; i++) {
+            System.out.println(outPut[i]);
+        }
     }
 }

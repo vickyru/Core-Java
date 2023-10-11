@@ -1,4 +1,4 @@
-package com.core.learning;
+package oops.concept;
 
 public class ImplementationOfCalculator implements InterfaceCalculator {
     int x = 15;

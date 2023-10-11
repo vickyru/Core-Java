@@ -1,5 +1,6 @@
 package com.core.learning.char_count_in_string;
 
+
 public class RemoveCharInString {
     /**
      * If the original string is "Alive is awesome"
@@ -10,7 +11,7 @@ public class RemoveCharInString {
      * and the user inputs string to remove "estp"
      * then the it should print   "Larning nvr o" as output .
      */
-    public static void main(String[] args) {
+    public void method1(){
         String originalStr = "alive is awesome";
         String removeString = "alwsr";
         char[] orginalArray = originalStr.toCharArray();
@@ -27,5 +28,19 @@ public class RemoveCharInString {
 
         }
         System.out.println(originalStr);
+    }
+
+    public void method2(){
+        String originalStr = "alive is awesome";
+        String removeString = "alwsr";
+        for (int i = 0; i < removeString.length(); i++) {
+            originalStr = originalStr.replaceAll(""+removeString.charAt(i),"");
+        }
+        System.out.println(originalStr);
+    }
+    public static void main(String[] args) {
+        RemoveCharInString obj = new RemoveCharInString();
+//        obj.method1(); // not working
+        obj.method2();
     }
 }
